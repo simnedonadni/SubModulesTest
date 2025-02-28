@@ -1,0 +1,6 @@
+[submodule "spdlog"]
+	path = Dependencies/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "json"]
+	path = Dependencies/json
+	url = https://github.com/nlohmann/json.git
